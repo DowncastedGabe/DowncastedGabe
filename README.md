@@ -1,3 +1,8 @@
+____________________________________________________________________________________________________________________
+/------------------------------------------------------------------------------------------------------------------\
+  /  Cybersecurity     / Software Engineer /
+  / {x} (In progress) /  {-} ( Later )    /
+       
 - 👋 Hi, I’m Gabriel (@DowncastedGabe) ✔
 - 🏕 I'm from | | Brazil, São Paulo, São Bernardo do Campo.
 - 👀 I’m interested in | | PYTHON, JS, HTML5, CSS3, JAVA, CSHARP, RUBY, C, C++
@@ -6,7 +11,19 @@
 - 📫 How to reach me | | gmail: downcastedgabe@gmail.com
 - 🧷 Social Media | | ⚓facebook.com/gabriel.pessotti.121/ | 🕳Instagram: @cyberacceu | 💢Discord : gâbe #1167 .
 
-<!---
-DowncastedGabe/DowncastedGabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📳 | - More things about me: 
+
+  🎯 | - I'm looking for new adventures in the area of Technology, I bet my whole life in this area, and I love all things related to technology so much. 
+  It is satisfying for me to build a program or script that can save companies from hackers and protect your company data.
+  
+  | - Personal Part's about me. - | ( Just Ignore this )
+  
+  I like a lot Melancholic Songs, Shoegaze, Hip Hop, Classic Songs and Too much Eletronic.
+  I like Japanese cars a lot.
+  I'm working on Pharmacy, but i pretend to leave on the first Internship offer.
+  I have piercings on my face;
+  I love too much Tattoo's.
+  
+  
+  \---------------------------------------------------------------------------------------------------------------/
+  _________________________________________________________________________________________________________________
