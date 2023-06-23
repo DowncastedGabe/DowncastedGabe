@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning | | PYTHON
 - 💞️ I’m looking to collaborate on | | CyberSecurity Companies.
 - 📫 How to reach me | | gmail: downcastedgabe@gmail.com
-- 🧷 Social Media | | ⚓facebook.com/gabriel.pessotti.121/ | 🕳Instagram: @cyberacceu | 💢Discord : gabë gxvcdx .
+- 🧷 Social Media | | ⚓facebook.com/gabriel.pessotti.121/ | 🕳Instagram: @valuesofmind | 💢Discord : gabë gxvcdx .
 
 📳 | - More things about me: 
 
