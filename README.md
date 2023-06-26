@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - 👋 Hi, I’m Gabriel (@DowncastedGabe) ✔
 - 🏕 I'm from | | Brazil, São Paulo, São Bernardo do Campo.
 - 👀 I’m interested in | | PYTHON, JS, HTML5, CSS3, JAVA, C#, RUBY, C, C++
-- 🌱 I’m currently learning | | PYTHON
+- 🌱 I’m currently learning | PHP
 - 💞️ I’m looking to collaborate on | | CyberSecurity Companies.
 - 📫 How to reach me | | gmail: downcastedgabe@gmail.com
 - 🧷 Social Media | | ⚓facebook.com/gabriel.pessotti.121/ | 🕳Instagram: @valuesofmind | 💢Discord : gabë gxvcdx .
