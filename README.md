@@ -1,6 +1,7 @@
 -- Olá me chamo Gabriel Locatelli
 
--💼 Actual Working: Bebida na Porta LTDA
+-💼 Actual Working: Bebida na Porta LTDA 
+<hr>
 -🪁 Actual Learnig: Java☕
 
 
