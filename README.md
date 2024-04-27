@@ -1,16 +1,20 @@
 ____________________________________________________________________________________________________________________
 /------------------------------------------------------------------------------------------------------------------\
 
-  /  Cybersecurity     / Software Engineer /
+  /  Analysis and System Development  / Software Engineer /
   / {x} (In progress) /  {-} ( Later )    /
        
-- 👋 Hi, I’m Gabriel (@DowncastedGabe) ✔
+- 👋 Hi, I’m Gabriel Locatelli (@DowncastedGabe) ✔
+- 
 - 🏕 I'm from | | Brazil, São Paulo, São Bernardo do Campo.
-- 👀 I’m interested in | | PYTHON, JS, HTML5, CSS3, JAVA, C#, RUBY, C, C++
-- 🌱 I’m currently learning | PHP
-- 💞️ I’m looking to collaborate on | | CyberSecurity Companies.
+- 
+- 🌱 I’m currently learning | Java
+- 
+- 💞️ I’m looking to collaborate on | | Any company.
+- 
 - 📫 How to reach me | | gmail: downcastedgabe@gmail.com
-- 🧷 Social Media | | ⚓facebook.com/gabriel.pessotti.121/ | 🕳Instagram: @valuesofmind | 💢Discord : gabë gxvcdx .
+- 
+- 🧷 Social Media | | ⚓facebook.com/gabriel.pessotti.121/ | 🕳Instagram: @valuesofmind | 💢Discord : classicjunglemix gxvcdx.
 
 📳 | - More things about me: 
 
