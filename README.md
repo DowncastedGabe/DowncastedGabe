@@ -1,4 +1,4 @@
--- Olá me chamo Gabriel Locatelli
+-- Hey there, i'm Gabriel Locatelli
 
 -💼 Actual Working: Bebida na Porta LTDA 
 
