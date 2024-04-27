@@ -1,8 +1,8 @@
 -- Olá me chamo Gabriel Locatelli
 
 -💼 Actual Working: Bebida na Porta LTDA 
-<hr>
--🪁 Actual Learnig: Java☕
+
+-🪁 Actual Learnig: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DowncastedGabe\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/DowncastedGabe/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
