@@ -1,8 +1,8 @@
-# Welcome
----
-<img src="https://giphy.com/gifs/matrix-cinematography-sk6yL9EGVeAcE">
----
-<-- DIVISOR -->
+<div align="center">
+  <img height="200" src="https://gifdb.com/images/high/the-matrix-cinematography-rxh4uq8xy5zpl0gt.webp"  />
+</div>
+
+###
 <br clear="both">
 
 <div align="center">
