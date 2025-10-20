@@ -86,7 +86,7 @@ My knowledge base is centered on security principles and the core technologies e
 
 
 
-## 🏆 Certifications and Additional Activities
+## 🏆 Certifications
 
 * **Courses/Platforms:**
 * [TryHackMe: Pre Security Path Certificate](https://tryhackme.com/certificate/THM-ACXONHLOKI)
