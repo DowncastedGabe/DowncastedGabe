@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/the-matrix-cinematography-rxh4uq8xy5zpl0gt.webp"  />
+  <img height="300" src="https://gifdb.com/images/high/the-matrix-cinematography-rxh4uq8xy5zpl0gt.webp"  />
 </div>
 
 ###
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DowncastedGabe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-# 🛡️ [Gabriel Alexsander Pessotti Locatelli] | Cybersecurity Internship Candidate
+# 🛡️ Gabriel Alexsander Pessotti Locatelli | Cybersecurity Internship Candidate
 
 > "Absolute security does not exist. What exists is risk management."
 
